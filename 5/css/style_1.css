@@ -1,0 +1,24 @@
+body {
+  /*background-color:#123456;*/
+}
+p>label {
+  font-weight:bold;
+  margin-left: 20px;
+  margin-right: 10px;
+}
+p {
+  margin-top: 2px;
+}
+h1 {
+  font-size:32px;
+  font-family:黑体;
+}
+h2 {
+  font-size:20px;
+  font-family:微软雅黑;
+}
+h3 {
+  font-size:18px;
+  font-family:微软雅黑;
+  margin-bottom: 2px;
+}
